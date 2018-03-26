@@ -1,0 +1,20 @@
+
+.type-wrap {
+  height: 5rem;
+}
+
+nav {
+  background-color: #fff;
+}
+
+nav .brand-logo {
+  color: #000;
+}
+
+nav ul a {
+  color: #000;
+}
+
+nav ul a:hover {
+  background-color: green;
+}
